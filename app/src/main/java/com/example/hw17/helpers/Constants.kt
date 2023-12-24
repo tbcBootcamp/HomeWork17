@@ -13,6 +13,7 @@ object Constants {
     const val KEY_EMAIL = "email"
 
 
-    const val NAME = "UserDataStore"
+    const val DATA_STORE_NAME = "UserDataStore"
 
+    const val BASE_URL = "https://reqres.in/api/"
 }
